@@ -11767,11 +11767,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/naveensharma/Projects/naqulClient/naqulClient/naqulClient.csproj",
+      "projectUniqueName": "/Users/naveensharma/gitlab/naqul/src/naqulClient/naqulClient/naqulClient.csproj",
       "projectName": "naqulClient",
-      "projectPath": "/Users/naveensharma/Projects/naqulClient/naqulClient/naqulClient.csproj",
+      "projectPath": "/Users/naveensharma/gitlab/naqul/src/naqulClient/naqulClient/naqulClient.csproj",
       "packagesPath": "/Users/naveensharma/.nuget/packages/",
-      "outputPath": "/Users/naveensharma/Projects/naqulClient/naqulClient/obj/",
+      "outputPath": "/Users/naveensharma/gitlab/naqul/src/naqulClient/naqulClient/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
