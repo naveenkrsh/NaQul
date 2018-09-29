@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{73A0D74A-1556-4C27-B579-3597AFE843CA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="naqulClient/Helper/DBHelper.cs">
+    <Files>
+      <File FileName="naqulClient/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="naqulClient/Views/NaQul/Index.cshtml" Line="1" Column="1" />
+      <File FileName="naqulClient/Controllers/NaQul.cs" Line="1" Column="1" />
+      <File FileName="naqulClient/Helper/DBHelper.cs" Line="1" Column="1" />
+      <File FileName="naqulClient/appsettings.json" Line="9" Column="104" />
+      <File FileName="naqualClient.Test/UnitTest1.cs" Line="23" Column="98" />
+      <File FileName="naqulClient/Startup.cs" Line="1" Column="1" />
+      <File FileName="naqulClient/Program.cs" Line="24" Column="2" />
+      <File FileName="naqulClient/Models/NaQulResponseViewModel.cs" Line="28" Column="9" />
+      <File FileName="naqulClient/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="naqulClient/wwwroot/css/site.css" Line="37" Column="2" />
+      <File FileName="naqulClient/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="naqulClient/Views/Home/About.cshtml" Line="1" Column="1" />
+      <File FileName="naqulClient/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="naqulClient/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="naqulClient/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="naqulClient/wwwroot/lib/bootstrap/dist/js/bootstrap.js" Line="1" Column="1" />
+      <File FileName="naqulClient/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="naqulClient" expanded="True">
+            <Node name="naqualClient.Test" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.naqulClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
